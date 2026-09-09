@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Come si comportano gli studenti europei in matematica?",
+  "subtitle": "L'Estonia è al primo posto nell'UE con 508 punti in matematica. La media non ponderata dell'UE-27 si aggira intorno ai 460 punti, vicina alla media OCSE di 463.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il punteggio medio di matematica dell'OCSE è sceso a 463 punti nel PISA 2025, nove punti in meno rispetto al 2022. Rispetto al 2015, la media OCSE è diminuita di 22 punti, passando da 485 a 463. L'Estonia ha registrato il punteggio più alto in matematica nell'UE con 508 punti, seguita dalla Polonia con 484 e dai Paesi Bassi con 483. La Bulgaria ha registrato il punteggio più basso con 405. La media UE di 460 punti qui riportata è calcolata come media non ponderata dei punteggi dei 27 Stati membri.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "OCSE (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "extraInfo_NL": "Attenzione: uno o più criteri di campionamento PISA non sono stati rispettati; interpretare la stima con cautela.",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
