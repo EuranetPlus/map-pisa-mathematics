@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko su dobri europski učenici u matematici?",
+  "subtitle": "Estonija predvodi EU s 508 bodova iz matematike. Neponderirani prosjek EU-27 iznosi oko 460 bodova, što je blizu prosjeka OECD-a od 463.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Prosječni rezultat OECD-a iz matematike pao je na 463 boda u PISA-i 2025., devet bodova ispod onoga iz 2022. U usporedbi s 2015. godinom, prosjek OECD-a pao je za 22 boda, s 485 na 463. Estonija je zabilježila najviši rezultat iz matematike u EU s 508 bodova, a slijede Poljska s 484 i Nizozemska s 483. Bugarska je zabilježila najniži rezultat s 405. Prosjek EU od 460 bodova prikazan ovdje izračunat je kao neponderirana sredina rezultata 27 država članica.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "OECD (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom.",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
