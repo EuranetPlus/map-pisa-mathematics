@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kaip gerai Europos mokiniai mokosi matematikos?",
+  "subtitle": "Estija pirmauja ES su 508 balais matematikos srityje. Nesvertinis ES-27 vidurkis yra apie 460 balų, artimas EBPO vidurkiui – 463.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "EBPO vidutinis matematikos balas PISA 2025 tyrime sumažėjo iki 463 balų, devyniais balais mažiau nei 2022 m. Palyginti su 2015 m., EBPO vidurkis sumažėjo 22 balais – nuo 485 iki 463. Geriausius matematikos rezultatus ES užfiksavo Estija – 508 balai, po jos sekė Lenkija (484 balai) ir Nyderlandai (483 balai). Žemiausias balas buvo Bulgarija – 405. Čia parodytas ES vidurkis – 460 balų – apskaičiuotas kaip nesvertinis 27 valstybių narių balų vidurkis.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "EBPO (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_NL": "Dėmesio: nebuvo įvykdytas vienas ar keli PISA imties standartai; įvertį interpretuokite atsargiai.",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
