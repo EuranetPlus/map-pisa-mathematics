@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe goed presteren Europese leerlingen in wiskunde?",
+  "subtitle": "Estland voert de EU aan met 508 punten voor wiskunde. Het ongewogen gemiddelde van de EU-27 ligt rond de 460 punten, dicht bij het OECD-gemiddelde van 463.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De gemiddelde wiskundescore van de OESO daalde in PISA 2025 naar 463 punten, negen punten lager dan in 2022. Vergeleken met 2015 is het OESO-gemiddelde met 22 punten gedaald, van 485 naar 463. Estland behaalde de hoogste score voor wiskunde in de EU met 508 punten, gevolgd door Polen met 484 en Nederland met 483. Bulgarije behaalde de laagste score met 405. Het hier getoonde EU-gemiddelde van 460 punten is berekend als het ongewogen gemiddelde van de scores van de 27 lidstaten.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "OESO (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_NL": "Let op: aan een of meer PISA-steekproefnormen is niet voldaan; interpreteer de schatting met de nodige voorzichtigheid.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
