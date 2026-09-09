@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le niveau des élèves européens en mathématiques ?",
+  "subtitle": "L'Estonie arrive en tête de l'UE en mathématiques avec 508 points. La moyenne non pondérée de l'UE-27 se situe autour de 460 points, proche de la moyenne de l'OCDE (463 points).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Le score moyen en mathématiques des pays de l'OCDE a chuté à 463 points lors de l'enquête PISA 2025, soit neuf points de moins qu'en 2022. Par rapport à 2015, la moyenne de l'OCDE a reculé de 22 points, passant de 485 à 463. L'Estonie a enregistré la meilleure performance en mathématiques de l'UE avec 508 points, suivie de la Pologne (484 points) et des Pays-Bas (483 points). La Bulgarie a obtenu le score le plus faible, à 405 points. La moyenne européenne de 460 points présentée ici est calculée comme la moyenne non pondérée des scores des 27 États membres.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_NL": "Attention : une ou plusieurs normes d’échantillonnage PISA n’ont pas été respectées ; interprétez l’estimation avec prudence.",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
