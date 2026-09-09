@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik labi Eiropas skolēniem veicas matemātikā?",
+  "subtitle": "Igaunija matemātikā ir ES līdere ar 508 punktiem. Nesvērtais ES-27 vidējais rādītājs ir aptuveni 460 punkti, kas ir tuvu ESAO vidējam rādītājam – 463.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "OECD vidējais matemātikas rezultāts PISA 2025. gadā samazinājās līdz 463 punktiem, kas ir par deviņiem punktiem zemāk nekā 2022. gadā. Salīdzinot ar 2015. gadu, OECD vidējais rādītājs ir samazinājies par 22 punktiem — no 485 līdz 463. Visaugstākie matemātikas rezultāti ES bija Igaunijā ar 508 punktiem, tai sekoja Polija ar 484 punktiem un Nīderlande ar 483 punktiem. Viszemākais rezultāts bija Bulgārijā — 405 punkti. Šeit norādītais ES vidējais rādītājs 460 punkti ir aprēķināts kā 27 dalībvalstu rezultātu nesvērtais vidējais rādītājs.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "ESAO (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi.",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
