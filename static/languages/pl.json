@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak europejscy uczniowie radzą sobie z matematyką?",
+  "subtitle": "Estonia jest liderem UE z wynikiem 508 punktów w matematyce. Nieważona średnia dla UE-27 wynosi około 460 punktów, co jest wartością zbliżoną do średniej OECD wynoszącej 463 punkty.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Średni wynik OECD z matematyki spadł do 463 punktów w badaniu PISA 2025, o dziewięć punktów poniżej wyniku z 2022 r. W porównaniu z 2015 r. średnia OECD spadła o 22 punkty, z 485 do 463. Estonia odnotowała najwyższy wynik z matematyki w UE – 508 punktów, następnie Polska z 484 i Holandia z 483. Bułgaria odnotowała najniższy wynik – 405. Średnia UE wynosząca 460 punktów przedstawiona tutaj jest obliczona jako średnia nieważona wyników 27 państw członkowskich.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_NL": "Uwaga: nie spełniono jednego lub więcej standardów doboru próby PISA; należy ostrożnie interpretować szacunek.",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
