@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh maith agus a fheidhmíonn daltaí Eorpacha sa mhatamaitic?",
+  "subtitle": "Tá an Eastóin i gceannas ar an AE le 508 pointe sa mhatamaitic. Tá meán neamhualaithe an AE-27 thart ar 460 pointe, gar do mheán OECD de 463.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Thit meánscór matamaitice an OECD go 463 pointe i PISA 2025, naoi bpointe faoi bhun 2022. I gcomparáid le 2015, tá meánscór an OECD tite 22 phointe, ó 485 go 463. Thaifead an Eastóin an fheidhmíocht mhatamaitice is airde san AE le 508 pointe, agus an Pholainn ina diaidh sin le 484 agus an Ísiltír le 483. Thaifead an Bhulgáir an scór is ísle ag 405. Ríomhtar meán an AE de 460 pointe a thaispeántar anseo mar mheán neamhualaithe scóir na 27 Ballstát.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
