@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur bra presterar europeiska elever i matematik?",
+  "subtitle": "Estland leder EU med 508 poäng i matematik. Det ovägda genomsnittet för EU-27 ligger runt 460 poäng, nära OECD-genomsnittet på 463.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "OECD:s genomsnittliga matematikresultat sjönk till 463 poäng i PISA 2025, nio poäng lägre än 2022. Jämfört med 2015 har OECD-genomsnittet minskat med 22 poäng, från 485 till 463. Estland hade den högsta matematikprestationen i EU med 508 poäng, följt av Polen med 484 och Nederländerna med 483. Bulgarien hade den lägsta poängen med 405. EU-genomsnittet på 460 poäng som visas här beräknas som det ovägda medelvärdet av de 27 medlemsstaternas resultat.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_NL": "Varning: en eller flera PISA-urvalsstandarder uppfylldes inte; tolka uppskattningen med försiktighet.",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
