@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Aké dobré sú výsledky európskych študentov v matematike?",
+  "subtitle": "Estónsko vedie v EÚ s 508 bodmi v matematike. Nevážený priemer EÚ-27 je okolo 460 bodov, čo je blízko priemeru OECD, ktorý je 463.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Priemerné skóre OECD v matematike v teste PISA 2025 kleslo na 463 bodov, čo je o deväť bodov menej ako v roku 2022. V porovnaní s rokom 2015 sa priemer OECD znížil o 22 bodov, zo 485 na 463. Estónsko zaznamenalo najvyššie výsledky v matematike v EÚ s 508 bodmi, nasledované Poľskom so 484 bodmi a Holandskom so 483 bodmi. Bulharsko zaznamenalo najnižšie skóre so 405 bodmi. Priemer EÚ vo výške 460 bodov, ktorý je tu uvedený, sa vypočíta ako nevážený priemer skóre 27 členských štátov.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_NL": "Pozor: nebol splnený jeden alebo viacero štandardov PISA; odhad interpretujte opatrne.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
