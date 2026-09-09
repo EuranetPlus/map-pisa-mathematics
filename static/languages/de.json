@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie gut schneiden europäische Schüler in Mathematik ab?",
+  "subtitle": "Estland führt die EU mit 508 Punkten im Fach Mathematik an. Der ungewichtete EU-27-Durchschnitt liegt bei rund 460 Punkten und damit nahe am OECD-Durchschnitt von 463 Punkten.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Der OECD-Durchschnittswert in Mathematik sank im PISA-Test 2025 auf 463 Punkte und lag damit neun Punkte unter dem Wert von 2022. Im Vergleich zu 2015 ging der OECD-Durchschnitt um 22 Punkte zurück, von 485 auf 463. Estland erzielte mit 508 Punkten das beste Ergebnis in Mathematik innerhalb der EU, gefolgt von Polen mit 484 und den Niederlanden mit 483 Punkten. Bulgarien erreichte mit 405 Punkten das niedrigste Ergebnis. Der hier angegebene EU-Durchschnitt von 460 Punkten ist der ungewichtete Mittelwert der Ergebnisse der 27 Mitgliedstaaten.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_NL": "Achtung: Mindestens ein PISA-Stichprobenstandard wurde nicht erfüllt; interpretieren Sie die Schätzung daher mit Vorsicht.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
