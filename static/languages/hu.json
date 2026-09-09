@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyire teljesítenek jól az európai diákok matematikából?",
+  "subtitle": "Észtország 508 ponttal vezeti az EU-t matematikából. Az EU-27 súlyozatlan átlaga körülbelül 460 pont, ami közel van az OECD 463-as átlagához.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az OECD átlagos matematika pontszáma 463 pontra csökkent a 2025-ös PISA-felmérésben, ami kilenc ponttal alacsonyabb, mint a 2022-es. 2015-höz képest az OECD átlag 22 ponttal, 485-ről 463-ra csökkent. Észtország érte el a legmagasabb matematika teljesítményt az EU-ban 508 ponttal, ezt követi Lengyelország 484 és Hollandia 483 ponttal. Bulgária érte el a legalacsonyabb pontszámot 405 ponttal. Az itt látható 460 pontos EU-átlag a 27 tagállam pontszámainak súlyozatlan átlagaként lett kiszámítva.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "extraInfo_NL": "Figyelem: egy vagy több PISA mintavételi szabvány nem teljesült; a becslést körültekintően kell értelmezni.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
