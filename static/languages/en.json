@@ -1,12 +1,12 @@
 {
-  "title": "How well do European students perform in mathematics?",
-  "subtitle": "Estonia leads the EU with 508 points in mathematics. The unweighted EU-27 average is around 460 points, close to the OECD average of 463.",
+  "title": "How do European pupils perform in mathematics?",
+  "subtitle": "With 508 points in the 2025 PISA test in maths, Estonia tops the EU rankings, while Bulgaria is last with 405 points. The EU-wide average stands at around 460 points, close to the OECD average of 463.",
   "textNoteDescription": "Note",
-  "textNote": "The OECD average mathematics score fell to 463 points in PISA 2025, nine points below 2022. Compared with 2015, the OECD average has declined by 22 points, from 485 to 463. Estonia recorded the highest mathematics performance in the EU with 508 points, followed by Poland with 484 and the Netherlands with 483. Bulgaria recorded the lowest score at 405. The EU average of 460 points shown here is calculated as the unweighted mean of the 27 Member States' scores.",
+  "textNote": "PISA assesses 15-year-old pupils' ability to apply their knowledge and skills to tackle real-life challenges. The OECD average mathematics score fell to 463 points in PISA 2025, nine points below 2022. Compared with 2015, the OECD average has declined by 22 points, from 485 to 463. The EU average of 460 points shown here is calculated as the unweighted mean of the 27 member states' scores,  and does not constitute an official OECD aggregate for the EU.",
   "textSourceDescription": "Source",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care.",
   "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care."
 }

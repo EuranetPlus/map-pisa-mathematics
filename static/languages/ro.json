@@ -1,12 +1,12 @@
 {
-  "title": "Cât de bine au performanțele elevilor europeni la matematică?",
-  "subtitle": "Estonia este lider în UE cu 508 puncte la matematică. Media neponderată a UE-27 este de aproximativ 460 de puncte, apropiată de media OCDE de 463.",
+  "title": "Cum se descurcă elevii europeni la matematică?",
+  "subtitle": "Cu 508 puncte la testul PISA 2025 la matematică, Estonia se află în fruntea clasamentului UE, în timp ce Bulgaria este pe ultimul loc, cu 405 puncte. Media la nivelul UE se situează la aproximativ 460 de puncte, aproape de media OCDE de 463.",
   "textNoteDescription": "Nota",
-  "textNote": "Scorul mediu OCDE la matematică a scăzut la 463 de puncte în PISA 2025, cu nouă puncte sub cel din 2022. Comparativ cu 2015, media OCDE a scăzut cu 22 de puncte, de la 485 la 463. Estonia a înregistrat cea mai mare performanță la matematică din UE, cu 508 puncte, urmată de Polonia cu 484 și Țările de Jos cu 483. Bulgaria a înregistrat cel mai mic scor, la 405. Media UE de 460 de puncte prezentată aici este calculată ca medie neponderată a scorurilor celor 27 de state membre.",
+  "textNote": "PISA evaluează capacitatea elevilor de 15 ani de a-și aplica cunoștințele și abilitățile pentru a aborda provocările din viața reală. Scorul mediu OCDE la matematică a scăzut la 463 de puncte în PISA 2025, cu nouă puncte sub cel din 2022. Comparativ cu 2015, media OCDE a scăzut cu 22 de puncte, de la 485 la 463. Media UE de 460 de puncte prezentată aici este calculată ca medie neponderată a scorurilor celor 27 de state membre și nu constituie un agregat oficial OCDE pentru UE.",
   "textSourceDescription": "Sursă",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție.",
   "legend1": "Nu sunt disponibile date",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție."
 }

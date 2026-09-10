@@ -1,12 +1,12 @@
 {
-  "title": "Koliko su dobri europski učenici u matematici?",
-  "subtitle": "Estonija predvodi EU s 508 bodova iz matematike. Neponderirani prosjek EU-27 iznosi oko 460 bodova, što je blizu prosjeka OECD-a od 463.",
+  "title": "Kakvi su rezultati europskih učenika u matematici?",
+  "subtitle": "S 508 bodova na PISA testu iz matematike za 2025. godinu, Estonija je na vrhu ljestvice EU, dok je Bugarska posljednja sa 405 bodova. Prosjek za cijelu EU iznosi oko 460 bodova, što je blizu prosjeka OECD-a od 463.",
   "textNoteDescription": "Bilješka",
-  "textNote": "Prosječni rezultat OECD-a iz matematike pao je na 463 boda u PISA-i 2025., devet bodova ispod onoga iz 2022. U usporedbi s 2015. godinom, prosjek OECD-a pao je za 22 boda, s 485 na 463. Estonija je zabilježila najviši rezultat iz matematike u EU s 508 bodova, a slijede Poljska s 484 i Nizozemska s 483. Bugarska je zabilježila najniži rezultat s 405. Prosjek EU od 460 bodova prikazan ovdje izračunat je kao neponderirana sredina rezultata 27 država članica.",
+  "textNote": "PISA procjenjuje sposobnost 15-godišnjih učenika da primijene svoje znanje i vještine kako bi se suočili sa stvarnim životnim izazovima. Prosječni rezultat OECD-a iz matematike pao je na 463 boda u PISA-i 2025, devet bodova ispod 2022. U usporedbi s 2015. godinom, prosjek OECD-a pao je za 22 boda, sa 485 na 463. Prosjek EU od 460 bodova prikazan ovdje izračunat je kao neponderirana sredina rezultata 27 država članica i ne predstavlja službeni agregirani rezultat OECD-a za EU.",
   "textSourceDescription": "Izvor",
   "textSource": "OECD (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
-  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom.",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom."
 }

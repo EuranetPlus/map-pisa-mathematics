@@ -1,12 +1,12 @@
 {
-  "title": "Kaip gerai Europos mokiniai mokosi matematikos?",
-  "subtitle": "Estija pirmauja ES su 508 balais matematikos srityje. Nesvertinis ES-27 vidurkis yra apie 460 balų, artimas EBPO vidurkiui – 463.",
+  "title": "Kaip Europos mokiniai mokosi matematikos?",
+  "subtitle": "Surinkusi 508 taškus 2025 m. PISA matematikos teste, Estija pirmauja ES reitinge, o Bulgarija – paskutinėje vietoje su 405 taškais. Visos ES vidurkis siekia apie 460 taškų, artimas EBPO vidurkiui – 463.",
   "textNoteDescription": "Pastaba",
-  "textNote": "EBPO vidutinis matematikos balas PISA 2025 tyrime sumažėjo iki 463 balų, devyniais balais mažiau nei 2022 m. Palyginti su 2015 m., EBPO vidurkis sumažėjo 22 balais – nuo 485 iki 463. Geriausius matematikos rezultatus ES užfiksavo Estija – 508 balai, po jos sekė Lenkija (484 balai) ir Nyderlandai (483 balai). Žemiausias balas buvo Bulgarija – 405. Čia parodytas ES vidurkis – 460 balų – apskaičiuotas kaip nesvertinis 27 valstybių narių balų vidurkis.",
+  "textNote": "PISA tyrimas vertina 15 metų mokinių gebėjimą pritaikyti savo žinias ir įgūdžius sprendžiant realaus gyvenimo problemas. EBPO vidutinis matematikos balas PISA 2025 tyrime sumažėjo iki 463 balų, devyniais balais mažiau nei 2022 m. Palyginti su 2015 m., EBPO vidurkis sumažėjo 22 balais – nuo 485 iki 463. Čia parodytas ES vidurkis – 460 balų – apskaičiuotas kaip nesvertinis 27 valstybių narių balų vidurkis ir nėra oficialus EBPO suvestinis rodiklis ES.",
   "textSourceDescription": "Šaltinis",
   "textSource": "EBPO (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
-  "extraInfo_NL": "Dėmesio: nebuvo įvykdytas vienas ar keli PISA imties standartai; įvertį interpretuokite atsargiai.",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "extraInfo_NL": "Dėmesio: nebuvo įvykdytas vienas ar keli PISA imties standartai; įvertį interpretuokite atsargiai."
 }

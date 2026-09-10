@@ -1,12 +1,12 @@
 {
-  "title": "Kemm imorru tajjeb l-istudenti Ewropej fil-matematika?",
-  "subtitle": "L-Estonja tinsab fuq quddiem nett fl-UE b’508 punt fil-matematika. Il-medja mhux ponderata tal-UE-27 hija ta’ madwar 460 punt, qrib il-medja tal-OECD ta’ 463.",
+  "title": "Kif imorru l-istudenti Ewropej fil-matematika?",
+  "subtitle": "B'508 punti fit-test PISA tal-2025 fil-matematika, l-Estonja tinsab fil-quċċata tal-klassifika tal-UE, filwaqt li l-Bulgarija tinsab fl-aħħar post b'405 punti. Il-medja madwar l-UE hija ta' madwar 460 punt, qrib il-medja tal-OECD ta' 463.",
   "textNoteDescription": "Nota",
-  "textNote": "Il-punteġġ medju tal-OECD fil-matematika niżel għal 463 punt fil-PISA 2025, disa’ punti taħt l-2022. Meta mqabbel mal-2015, il-medja tal-OECD naqset bi 22 punt, minn 485 għal 463. L-Estonja rreġistrat l-ogħla prestazzjoni fil-matematika fl-UE b’508 punt, segwita mill-Polonja b’484 u l-Olanda b’483. Il-Bulgarija rreġistrat l-inqas punteġġ b’405. Il-medja tal-UE ta’ 460 punt murija hawn hija kkalkulata bħala l-medja mhux ponderata tal-punteġġi tas-27 Stat Membru.",
+  "textNote": "Il-PISA tivvaluta l-abbiltà tal-istudenti ta’ 15-il sena li japplikaw l-għarfien u l-ħiliet tagħhom biex jindirizzaw sfidi tal-ħajja reali. Il-punteġġ medju tal-OECD fil-matematika niżel għal 463 punt fil-PISA 2025, disa’ punti inqas mill-2022. Meta mqabbel mal-2015, il-medja tal-OECD naqset bi 22 punt, minn 485 għal 463. Il-medja tal-UE ta’ 460 punt murija hawn hija kkalkulata bħala l-medja mhux ponderata tal-punteġġi tas-27 stat membru, u ma tikkostitwixxix aggregat uffiċjali tal-OECD għall-UE.",
   "textSourceDescription": "Sors",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
-  "extraInfo_NL": "Attenzjoni: standard wieħed jew aktar tal-kampjunar tal-PISA ma ntlaħqux; interpreta l-istima b'attenzjoni.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "extraInfo_NL": "Attenzjoni: standard wieħed jew aktar tal-kampjunar tal-PISA ma ntlaħqux; interpreta l-istima b'attenzjoni."
 }

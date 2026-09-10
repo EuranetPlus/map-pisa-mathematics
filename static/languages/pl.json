@@ -1,12 +1,12 @@
 {
   "title": "Jak europejscy uczniowie radzą sobie z matematyką?",
-  "subtitle": "Estonia jest liderem UE z wynikiem 508 punktów w matematyce. Nieważona średnia dla UE-27 wynosi około 460 punktów, co jest wartością zbliżoną do średniej OECD wynoszącej 463 punkty.",
+  "subtitle": "Z 508 punktami w teście PISA z matematyki z 2025 roku Estonia zajmuje pierwsze miejsce w rankingu UE, a Bułgaria jest ostatnia z 405 punktami. Średnia dla całej UE wynosi około 460 punktów, co jest wartością zbliżoną do średniej OECD wynoszącej 463.",
   "textNoteDescription": "Notatka",
-  "textNote": "Średni wynik OECD z matematyki spadł do 463 punktów w badaniu PISA 2025, o dziewięć punktów poniżej wyniku z 2022 r. W porównaniu z 2015 r. średnia OECD spadła o 22 punkty, z 485 do 463. Estonia odnotowała najwyższy wynik z matematyki w UE – 508 punktów, następnie Polska z 484 i Holandia z 483. Bułgaria odnotowała najniższy wynik – 405. Średnia UE wynosząca 460 punktów przedstawiona tutaj jest obliczona jako średnia nieważona wyników 27 państw członkowskich.",
+  "textNote": "Badanie PISA ocenia zdolność 15-letnich uczniów do wykorzystania swojej wiedzy i umiejętności w radzeniu sobie z wyzwaniami życia codziennego. Średni wynik OECD z matematyki spadł do 463 punktów w badaniu PISA 2025, o dziewięć punktów poniżej wyniku z 2022 roku. W porównaniu z 2015 rokiem średnia OECD spadła o 22 punkty, z 485 do 463. Średnia UE wynosząca 460 punktów przedstawiona tutaj jest obliczona jako średnia nieważona wyników 27 państw członkowskich i nie stanowi oficjalnego agregatu OECD dla UE.",
   "textSourceDescription": "Źródło",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
-  "extraInfo_NL": "Uwaga: nie spełniono jednego lub więcej standardów doboru próby PISA; należy ostrożnie interpretować szacunek.",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "extraInfo_NL": "Uwaga: nie spełniono jednego lub więcej standardów doboru próby PISA; należy ostrożnie interpretować szacunek."
 }

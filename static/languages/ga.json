@@ -1,12 +1,12 @@
 {
-  "title": "Cé chomh maith agus a fheidhmíonn daltaí Eorpacha sa mhatamaitic?",
-  "subtitle": "Tá an Eastóin i gceannas ar an AE le 508 pointe sa mhatamaitic. Tá meán neamhualaithe an AE-27 thart ar 460 pointe, gar do mheán OECD de 463.",
+  "title": "Conas a fheidhmíonn daltaí Eorpacha sa mhatamaitic?",
+  "subtitle": "Le 508 pointe i dtástáil PISA 2025 sa mhatamaitic, tá an Eastóin ar bharr rangú an AE, agus tá an Bhulgáir sa deireadh le 405 pointe. Seasann meán an AE ag thart ar 460 pointe, gar do mheán an OECD de 463.",
   "textNoteDescription": "Nóta",
-  "textNote": "Thit meánscór matamaitice an OECD go 463 pointe i PISA 2025, naoi bpointe faoi bhun 2022. I gcomparáid le 2015, tá meánscór an OECD tite 22 phointe, ó 485 go 463. Thaifead an Eastóin an fheidhmíocht mhatamaitice is airde san AE le 508 pointe, agus an Pholainn ina diaidh sin le 484 agus an Ísiltír le 483. Thaifead an Bhulgáir an scór is ísle ag 405. Ríomhtar meán an AE de 460 pointe a thaispeántar anseo mar mheán neamhualaithe scóir na 27 Ballstát.",
+  "textNote": "Déanann PISA measúnú ar chumas daltaí 15 bliana d'aois a gcuid eolais agus scileanna a chur i bhfeidhm chun dul i ngleic le dúshláin sa saol fíor. Thit meánscór matamaitice an OECD go 463 pointe i PISA 2025, naoi bpointe faoi bhun 2022. I gcomparáid le 2015, tá meánscór an OECD tite 22 phointe, ó 485 go 463. Ríomhtar meán an AE de 460 pointe a thaispeántar anseo mar mheán neamhualaithe scóir na 27 ballstát, agus ní hionann é agus comhiomlán oifigiúil OECD don AE.",
   "textSourceDescription": "Foinse",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
-  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach."
 }

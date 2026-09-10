@@ -1,12 +1,12 @@
 {
-  "title": "Qual o desempenho dos estudantes europeus em matemática?",
-  "subtitle": "A Estônia lidera a UE com 508 pontos em matemática. A média não ponderada da UE-27 é de cerca de 460 pontos, próxima da média da OCDE, que é de 463.",
+  "title": "Qual é o desempenho dos alunos europeus em matemática?",
+  "subtitle": "Com 508 pontos no teste PISA de matemática de 2025, a Estônia lidera o ranking da UE, enquanto a Bulgária ocupa a última posição com 405 pontos. A média da UE é de cerca de 460 pontos, próxima à média da OCDE, que é de 463.",
   "textNoteDescription": "Observação",
-  "textNote": "A pontuação média em matemática da OCDE caiu para 463 pontos no PISA 2025, nove pontos abaixo de 2022. Comparada a 2015, a média da OCDE diminuiu 22 pontos, de 485 para 463. A Estônia registrou o melhor desempenho em matemática na UE, com 508 pontos, seguida pela Polônia, com 484, e pelos Países Baixos, com 483. A Bulgária registrou a pontuação mais baixa, com 405 pontos. A média da UE de 460 pontos apresentada aqui é calculada como a média não ponderada das pontuações dos 27 Estados-Membros.",
+  "textNote": "O PISA avalia a capacidade de alunos de 15 anos de aplicar seus conhecimentos e habilidades para enfrentar desafios da vida real. A pontuação média em matemática da OCDE caiu para 463 pontos no PISA 2025, nove pontos abaixo de 2022. Comparada a 2015, a média da OCDE diminuiu 22 pontos, de 485 para 463. A média da UE de 460 pontos apresentada aqui é calculada como a média não ponderada das pontuações dos 27 Estados-Membros e não constitui um agregado oficial da OCDE para a UE.",
   "textSourceDescription": "Fonte",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_NL": "Atenção: um ou mais critérios de amostragem do PISA não foram atendidos; interprete a estimativa com cautela.",
   "legend1": "Não há dados disponíveis.",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "extraInfo_NL": "Atenção: um ou mais critérios de amostragem do PISA não foram atendidos; interprete a estimativa com cautela."
 }

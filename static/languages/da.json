@@ -1,12 +1,12 @@
 {
-  "title": "Hvor godt klarer europæiske elever sig i matematik?",
-  "subtitle": "Estland fører EU med 508 point i matematik. Det uvægtede gennemsnit for EU-27 er omkring 460 point, tæt på OECD-gennemsnittet på 463.",
+  "title": "Hvordan klarer europæiske elever sig i matematik?",
+  "subtitle": "Med 508 point i PISA-testen i matematik i 2025 topper Estland EU-ranglisten, mens Bulgarien ligger sidst med 405 point. EU-gennemsnittet ligger på omkring 460 point, tæt på OECD-gennemsnittet på 463.",
   "textNoteDescription": "Note",
-  "textNote": "OECD's gennemsnitlige matematikscore faldt til 463 point i PISA 2025, ni point under 2022. Sammenlignet med 2015 er OECD-gennemsnittet faldet med 22 point, fra 485 til 463. Estland opnåede den højeste præstation i matematik i EU med 508 point, efterfulgt af Polen med 484 og Holland med 483. Bulgarien opnåede den laveste score med 405. EU-gennemsnittet på 460 point, der er vist her, beregnes som det uvægtede gennemsnit af de 27 medlemsstaters scorer.",
+  "textNote": "PISA vurderer 15-årige elevers evne til at anvende deres viden og færdigheder til at tackle virkelige udfordringer. OECD's gennemsnitlige matematikscore faldt til 463 point i PISA 2025, ni point under 2022. Sammenlignet med 2015 er OECD-gennemsnittet faldet med 22 point, fra 485 til 463. EU-gennemsnittet på 460 point, der vises her, beregnes som det uvægtede gennemsnit af de 27 medlemsstaters scorer og udgør ikke et officielt OECD-aggregat for EU.",
   "textSourceDescription": "Kilde",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
-  "extraInfo_NL": "Advarsel: En eller flere PISA-stikprøvestandarder blev ikke opfyldt; fortolk estimatet med forsigtighed.",
   "legend1": "Ingen data tilgængelige",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "extraInfo_NL": "Advarsel: En eller flere PISA-stikprøvestandarder blev ikke opfyldt; fortolk estimatet med forsigtighed."
 }

@@ -1,12 +1,12 @@
 {
-  "title": "¿Qué nivel de rendimiento tienen los estudiantes europeos en matemáticas?",
-  "subtitle": "Estonia lidera la UE con 508 puntos en matemáticas. El promedio no ponderado de la UE-27 ronda los 460 puntos, cerca del promedio de la OCDE de 463.",
+  "title": "¿Qué resultados obtienen los alumnos europeos en matemáticas?",
+  "subtitle": "Con 508 puntos en la prueba PISA de matemáticas de 2025, Estonia encabeza la clasificación de la UE, mientras que Bulgaria ocupa el último lugar con 405 puntos. El promedio de la UE se sitúa en torno a los 460 puntos, cerca del promedio de la OCDE de 463.",
   "textNoteDescription": "Nota",
-  "textNote": "La puntuación media de la OCDE en matemáticas descendió a 463 puntos en PISA 2025, nueve puntos por debajo de 2022. En comparación con 2015, la media de la OCDE ha bajado 22 puntos, de 485 a 463. Estonia obtuvo el mejor resultado en matemáticas de la UE con 508 puntos, seguida de Polonia con 484 y los Países Bajos con 483. Bulgaria obtuvo la puntuación más baja con 405. La media de la UE de 460 puntos que se muestra aquí se calcula como la media no ponderada de las puntuaciones de los 27 Estados miembros.",
+  "textNote": "PISA evalúa la capacidad de los alumnos de 15 años para aplicar sus conocimientos y habilidades a la resolución de problemas de la vida real. La puntuación media de la OCDE en matemáticas descendió a 463 puntos en PISA 2025, nueve puntos por debajo de 2022. En comparación con 2015, la media de la OCDE ha disminuido en 22 puntos, de 485 a 463. La media de la UE de 460 puntos que se muestra aquí se calcula como la media no ponderada de las puntuaciones de los 27 Estados miembros y no constituye un agregado oficial de la OCDE para la UE.",
   "textSourceDescription": "Fuente",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_NL": "Precaución: no se cumplió con uno o más estándares de muestreo de PISA; interprete la estimación con precaución.",
   "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "extraInfo_NL": "Precaución: no se cumplió con uno o más estándares de muestreo de PISA; interprete la estimación con precaución."
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Jak dobře si evropští studenti vedou v matematice?",
-  "subtitle": "Estonsko vede v EU s 508 body v matematice. Nevážený průměr EU-27 je kolem 460 bodů, což se blíží průměru OECD, který činí 463.",
+  "title": "Jak si evropští žáci vedou v matematice?",
+  "subtitle": "Estonsko je s 508 body v testu PISA z matematiky v roce 2025 na prvním místě v žebříčku EU, zatímco Bulharsko je poslední se 405 body. Průměr v celé EU se pohybuje kolem 460 bodů, což se blíží průměru OECD, který činí 463 bodů.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Průměrné skóre v matematice v zemích OECD v testu PISA 2025 kleslo na 463 bodů, což je o devět bodů méně než v roce 2022. Ve srovnání s rokem 2015 se průměr OECD snížil o 22 bodů, ze 485 na 463. Estonsko zaznamenalo nejvyšší výsledky v matematice v EU s 508 body, následované Polskem se 484 body a Nizozemskem se 483 body. Bulharsko zaznamenalo nejnižší skóre s 405 body. Zde uvedený průměr EU ve výši 460 bodů je vypočítán jako nevážený průměr skóre 27 členských států.",
+  "textNote": "PISA hodnotí schopnost patnáctiletých žáků aplikovat své znalosti a dovednosti k řešení problémů reálného života. Průměrné skóre v matematice v zemích OECD v roce 2025 kleslo na 463 bodů, což je o devět bodů méně než v roce 2022. Ve srovnání s rokem 2015 se průměr OECD snížil o 22 bodů, ze 485 na 463. Zde uvedený průměr EU ve výši 460 bodů je vypočítán jako nevážený průměr skóre 27 členských států a nepředstavuje oficiální souhrnné skóre OECD pro EU.",
   "textSourceDescription": "Zdroj",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_NL": "Pozor: nebyl splněn jeden nebo více standardů pro výběr vzorků PISA; odhad interpretujte s opatrností.",
   "legend1": "Nejsou k dispozici žádná data",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "extraInfo_NL": "Pozor: nebyl splněn jeden nebo více standardů pro výběr vzorků PISA; odhad interpretujte s opatrností."
 }

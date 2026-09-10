@@ -1,12 +1,12 @@
 {
-  "title": "Kui hästi Euroopa õpilased matemaatikas hakkama saavad?",
-  "subtitle": "Eesti on matemaatikas 508 punktiga EL-is esikohal. EL-27 kaalumata keskmine on umbes 460 punkti, mis on lähedal OECD keskmisele 463 punktile.",
+  "title": "Kuidas Euroopa õpilased matemaatikas hakkama saavad?",
+  "subtitle": "2025. aasta PISA matemaatikatesti 508 punktiga on Eesti EL-i edetabeli tipus, Bulgaaria aga 405 punktiga viimasel kohal. EL-i keskmine on umbes 460 punkti, mis on lähedal OECD keskmisele 463 punktile.",
   "textNoteDescription": "Märkus",
-  "textNote": "OECD keskmine matemaatika tulemus langes PISA 2025-s 463 punktini, mis on üheksa punkti vähem kui 2022. aastal. Võrreldes 2015. aastaga on OECD keskmine langenud 22 punkti võrra 485-lt 463-le. Eesti registreeris ELis kõrgeima matemaatika tulemuse 508 punktiga, järgnesid Poola 484 ja Holland 483 punktiga. Bulgaaria registreeris madalaima tulemuse 405 punktiga. Siin näidatud ELi keskmine 460 punkti on arvutatud 27 liikmesriigi tulemuste kaalumata keskmisena.",
+  "textNote": "PISA hindab 15-aastaste õpilaste võimet rakendada oma teadmisi ja oskusi reaalse elu väljakutsetega toimetulekuks. OECD keskmine matemaatika tulemus langes PISA 2025-s 463 punktini, mis on üheksa punkti vähem kui 2022. aastal. Võrreldes 2015. aastaga on OECD keskmine langenud 22 punkti võrra 485-lt 463-le. Siin näidatud ELi keskmine 460 punkti on arvutatud 27 liikmesriigi tulemuste kaalumata keskmisena ega moodusta OECD ametlikku koondnäitajat ELi kohta.",
   "textSourceDescription": "Allikas",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_NL": "Ettevaatust: üks või mitu PISA valimistandardit ei olnud täidetud; tõlgendage hinnangut ettevaatlikult.",
   "legend1": "Andmed pole saadaval",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "extraInfo_NL": "Ettevaatust: üks või mitu PISA valimistandardit ei olnud täidetud; tõlgendage hinnangut ettevaatlikult."
 }

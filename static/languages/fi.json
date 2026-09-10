@@ -1,12 +1,12 @@
 {
-  "title": "Kuinka hyvin eurooppalaiset oppilaat pärjäävät matematiikassa?",
-  "subtitle": "Viro johtaa EU:ta matematiikan pisteillä 508. Painottamaton EU-27:n keskiarvo on noin 460 pistettä, lähellä OECD:n keskiarvoa 463 pistettä.",
+  "title": "Miten eurooppalaiset oppilaat pärjäävät matematiikassa?",
+  "subtitle": "Viro on EU-rankingin kärjessä vuoden 2025 PISA-matematiikan testissä saadulla 508 pisteellä, kun taas Bulgaria on viimeisenä 405 pisteellä. EU:n laajuinen keskiarvo on noin 460 pistettä, lähellä OECD:n keskiarvoa, joka on 463.",
   "textNoteDescription": "Huomautus",
-  "textNote": "OECD:n keskimääräinen matematiikan pistemäärä laski 463 pisteeseen PISA 2025 -tutkimuksessa, yhdeksän pistettä alle vuoden 2022 pisteen. Vuoteen 2015 verrattuna OECD:n keskiarvo on laskenut 22 pistettä 485:stä 463:een. Viro saavutti EU:n parhaan matematiikan suoriutumisen 508 pisteellä, jota seurasivat Puola 484 pisteellä ja Alankomaat 483 pisteellä. Bulgaria sai alhaisimman pistemäärän 405 pisteellä. Tässä esitetty EU:n keskiarvo 460 pistettä on laskettu 27 jäsenvaltion pisteiden painottamattomana keskiarvona.",
+  "textNote": "PISA-tutkimuksessa arvioidaan 15-vuotiaiden oppilaiden kykyä soveltaa tietojaan ja taitojaan tosielämän haasteisiin. OECD:n keskimääräinen matematiikan pistemäärä laski 463 pisteeseen PISA 2025 -tutkimuksessa, yhdeksän pistettä alle vuoden 2022 tason. Vuoteen 2015 verrattuna OECD:n keskiarvo on laskenut 22 pistettä 485 pisteestä 463 pisteeseen. Tässä esitetty EU:n keskiarvo 460 pistettä on laskettu 27 jäsenvaltion pisteiden painottamattomana keskiarvona, eikä se muodosta virallista OECD:n aggregaattia EU:lle.",
   "textSourceDescription": "Lähde",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti.",
   "legend1": "Ei tietoja saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti."
 }

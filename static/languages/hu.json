@@ -1,12 +1,12 @@
 {
-  "title": "Mennyire teljesítenek jól az európai diákok matematikából?",
-  "subtitle": "Észtország 508 ponttal vezeti az EU-t matematikából. Az EU-27 súlyozatlan átlaga körülbelül 460 pont, ami közel van az OECD 463-as átlagához.",
+  "title": "Hogyan teljesítenek az európai diákok matematikából?",
+  "subtitle": "Észtország 508 ponttal vezeti az EU-s rangsort a 2025-ös PISA matematikateszten, míg Bulgária az utolsó 405 ponttal. Az EU-s átlag körülbelül 460 pont, ami közel áll a 463-as OECD-átlaghoz.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Az OECD átlagos matematika pontszáma 463 pontra csökkent a 2025-ös PISA-felmérésben, ami kilenc ponttal alacsonyabb, mint a 2022-es. 2015-höz képest az OECD átlag 22 ponttal, 485-ről 463-ra csökkent. Észtország érte el a legmagasabb matematika teljesítményt az EU-ban 508 ponttal, ezt követi Lengyelország 484 és Hollandia 483 ponttal. Bulgária érte el a legalacsonyabb pontszámot 405 ponttal. Az itt látható 460 pontos EU-átlag a 27 tagállam pontszámainak súlyozatlan átlagaként lett kiszámítva.",
+  "textNote": "A PISA azt méri, hogy a 15 éves tanulók mennyire képesek tudásukat és készségeiket a valós élet kihívásainak leküzdésére alkalmazni. Az OECD átlagos matematikai pontszáma 463 pontra esett vissza a 2025-ös PISA-felmérésben, ami kilenc ponttal alacsonyabb, mint a 2022-es. 2015-höz képest az OECD átlaga 22 ponttal, 485-ről 463-ra csökkent. Az itt látható 460 pontos EU-átlag a 27 tagállam pontszámainak súlyozatlan átlagaként került kiszámításra, és nem minősül hivatalos OECD-aggregátumnak az EU számára.",
   "textSourceDescription": "Forrás",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_NL": "Figyelem: egy vagy több PISA mintavételi szabvány nem teljesült; a becslést körültekintően kell értelmezni.",
   "legend1": "Nincsenek elérhető adatok",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "extraInfo_NL": "Figyelem: egy vagy több PISA mintavételi szabvány nem teljesült; a becslést körültekintően kell értelmezni."
 }

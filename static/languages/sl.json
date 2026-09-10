@@ -1,12 +1,12 @@
 {
-  "title": "Kako dobri so evropski učenci pri matematiki?",
-  "subtitle": "Estonija je s 508 točkami pri matematiki na vrhu EU. Netehtano povprečje EU-27 je približno 460 točk, kar je blizu povprečja OECD, ki znaša 463.",
+  "title": "Kakšni so rezultati evropskih učencev pri matematiki?",
+  "subtitle": "Estonija je s 508 točkami na testu matematike PISA 2025 zasedla prvo mesto na lestvici EU, Bolgarija pa je zadnja s 405 točkami. Povprečje v celotni EU znaša približno 460 točk, kar je blizu povprečja OECD, ki znaša 463.",
   "textNoteDescription": "Opomba",
-  "textNote": "Povprečni rezultat OECD pri matematiki se je v raziskavi PISA 2025 znižal na 463 točk, kar je devet točk manj kot v letu 2022. V primerjavi z letom 2015 se je povprečje OECD znižalo za 22 točk, s 485 na 463. Estonija je zabeležila najvišji rezultat pri matematiki v EU s 508 točkami, sledili sta ji Poljska s 484 in Nizozemska s 483. Bolgarija je zabeležila najnižji rezultat s 405 točkami. Povprečje EU, ki znaša 460 točk in je prikazano tukaj, je izračunano kot netehtano povprečje rezultatov 27 držav članic.",
+  "textNote": "PISA ocenjuje sposobnost 15-letnih učencev, da uporabijo svoje znanje in spretnosti za spopadanje z izzivi resničnega življenja. Povprečni rezultat OECD pri matematiki se je v raziskavi PISA 2025 znižal na 463 točk, kar je devet točk manj kot v letu 2022. V primerjavi z letom 2015 se je povprečje OECD znižalo za 22 točk, s 485 na 463. Povprečje EU, ki znaša 460 točk in je prikazano tukaj, je izračunano kot netehtano povprečje rezultatov 27 držav članic in ne predstavlja uradnega agregata OECD za EU.",
   "textSourceDescription": "Vir",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_NL": "Pozor: eden ali več vzorčnih standardov PISA ni bilo izpolnjenih; oceno interpretirajte previdno.",
   "legend1": "Ni na voljo podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "extraInfo_NL": "Pozor: eden ali več vzorčnih standardov PISA ni bilo izpolnjenih; oceno interpretirajte previdno."
 }

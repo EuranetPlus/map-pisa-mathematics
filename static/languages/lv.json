@@ -1,12 +1,12 @@
 {
-  "title": "Cik labi Eiropas skolēniem veicas matemātikā?",
-  "subtitle": "Igaunija matemātikā ir ES līdere ar 508 punktiem. Nesvērtais ES-27 vidējais rādītājs ir aptuveni 460 punkti, kas ir tuvu ESAO vidējam rādītājam – 463.",
+  "title": "Kādi ir Eiropas skolēnu rezultāti matemātikā?",
+  "subtitle": "Ar 508 punktiem 2025. gada PISA testā matemātikā Igaunija ieņem ES reitinga pirmo vietu, savukārt Bulgārija ar 405 punktiem ir pēdējā. ES vidējais rādītājs ir aptuveni 460 punkti, kas ir tuvu ESAO vidējam rādītājam – 463.",
   "textNoteDescription": "Piezīme",
-  "textNote": "OECD vidējais matemātikas rezultāts PISA 2025. gadā samazinājās līdz 463 punktiem, kas ir par deviņiem punktiem zemāk nekā 2022. gadā. Salīdzinot ar 2015. gadu, OECD vidējais rādītājs ir samazinājies par 22 punktiem — no 485 līdz 463. Visaugstākie matemātikas rezultāti ES bija Igaunijā ar 508 punktiem, tai sekoja Polija ar 484 punktiem un Nīderlande ar 483 punktiem. Viszemākais rezultāts bija Bulgārijā — 405 punkti. Šeit norādītais ES vidējais rādītājs 460 punkti ir aprēķināts kā 27 dalībvalstu rezultātu nesvērtais vidējais rādītājs.",
+  "textNote": "PISA novērtē 15 gadus vecu skolēnu spēju pielietot savas zināšanas un prasmes, lai risinātu reālās dzīves izaicinājumus. OECD vidējais matemātikas rezultāts 2025. gadā PISA apsekojumā samazinājās līdz 463 punktiem, kas ir par deviņiem punktiem zemāk nekā 2022. gadā. Salīdzinot ar 2015. gadu, OECD vidējais rādītājs ir samazinājies par 22 punktiem — no 485 līdz 463 punktiem. Šeit norādītais ES vidējais rādītājs 460 punktu apmērā ir aprēķināts kā 27 dalībvalstu rezultātu nesvērtais vidējais rādītājs, un tas nav oficiāls OECD apkopotais rādītājs ES.",
   "textSourceDescription": "Avots",
   "textSource": "ESAO (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi.",
   "legend1": "Dati nav pieejami",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi."
 }
